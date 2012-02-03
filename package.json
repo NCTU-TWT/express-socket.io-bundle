@@ -1,0 +1,20 @@
+{
+  "author": "Elliot Lai <ellliotlai@gmail.com>",
+  "name": "express-socket.io-bundle",
+  "description": "express-socket.io bundle",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NCTU-TWT/express-socket.io-bundle.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "dependencies": {
+    "express": ">= 2.5.6",
+    "socket.io": ">= 0.8.7"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
